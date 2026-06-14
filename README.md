@@ -22,16 +22,50 @@ I'm a developer, digital creator, and entrepreneur passionate about building eng
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-## 📈 GitHub Visual Dashboard
+## 📊 Interactive Visual Dashboard
 
-![psycheaura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psycheaura&show_icons=true&theme=radium&v=1)
+<div align="center">
+  <!-- Clickable Stats Card linking to your repositories -->
+  <a href="https://github.com/psycheaura?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=psycheaura&show_icons=true&theme=radium&v=2" alt="psycheaura's GitHub Stats" height="150" />
+  </a>
+  <!-- Clickable Top Languages Card linking to your profile -->
+  <a href="https://github.com/psycheaura">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycheaura&layout=compact&theme=radium&v=2" alt="Top Languages" height="150" />
+  </a>
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycheaura&theme=radium" alt="psycheaura's GitHub Streak" />
+  <!-- Clickable Streak Card -->
+  <a href="https://github.com/psycheaura">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycheaura&theme=radium&v=2" alt="psycheaura's GitHub Streak" height="150" />
+  </a>
 </div>
 
-## 📫 Let's Connect!
-- **Drop a line:** [Your Email/Link]
-- **Explore my designs:** [Your Behance/Portfolio Link]
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+  <!-- Email Badge -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <!-- Behance Badge -->
+  <a href="https://behance.net/yourusername">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  
+  <!-- kollywoodflix Badge -->
+  <a href="https://kollywoodflix.com">
+    <img src="https://img.shields.io/badge/kollywoodflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="kollywoodflix" />
+  </a>
+  
+  <!-- YouTube Badge -->
+  <a href="https://youtube.com/c/yourchannel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
