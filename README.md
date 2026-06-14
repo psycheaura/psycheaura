@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm psycheaura 👋
 
-<!--
-**psycheaura/psycheaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer, digital creator, and entrepreneur passionate about building engaging applications and visually dynamic strategic dashboards. Whether I'm scripting for games, developing AI applications, or managing entertainment platforms, I focus on creating seamless digital experiences.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- 🔭 Working on **[kollywoodflix.com]** and maintaining the **GT-Slash-Music-Bot**.
+- 🎮 Developing custom character creation and dynamic pricing **FiveM scripts**.
+- 🌱 Building applications using the **Gemini API** and generative models like **Veo** and **Imagen**.
+- 💼 Managing digital branding and asset-light business models for the **Wizard Ikkars** esports team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+**Languages & Scripting:**
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**AI & Development:**
+![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_Models-FF6F00?style=for-the-badge)
+
+**Design & Content:**
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+## 📈 GitHub Visual Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psycheaura&show_icons=true&theme=radium" alt="psycheaura's GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycheaura&theme=radium" alt="psycheaura's GitHub Streak" />
+</div>
+
+## 📫 Let's Connect!
+- **Drop a line:** [Your Email/Link]
+- **Explore my designs:** [Your Behance/Portfolio Link]
