@@ -25,22 +25,9 @@ I'm a developer, digital creator, and entrepreneur passionate about building eng
 ## 📊 Interactive Visual Dashboard
 
 <div align="center">
-  <!-- Clickable Stats Card linking to your repositories -->
-  <a href="https://github.com/psycheaura?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=psycheaura&amp;show_icons=true&amp;theme=radium&amp;v=3" alt="psycheaura's GitHub Stats" height="150" />
-  </a>
-  <!-- Clickable Top Languages Card linking to your profile -->
-  <a href="https://github.com/psycheaura">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psycheaura&amp;layout=compact&amp;theme=radium&amp;v=3" alt="Top Languages" height="150" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <!-- Clickable Streak Card -->
   <a href="https://github.com/psycheaura">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycheaura&amp;theme=radium&amp;v=3" alt="psycheaura's GitHub Streak" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=psycheaura&theme=radium&v=3" alt="psycheaura's GitHub Streak" height="150" />
   </a>
 </div>
 
