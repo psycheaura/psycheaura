@@ -54,5 +54,12 @@ I'm a developer, digital creator, and entrepreneur passionate about building eng
   <!-- YouTube Badge -->
   <a href="https://youtube.com/c/yourchannel">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+
+    ```shell
+root@psycheaura:~# ./initialize_profile.sh
+> INITIALIZING SYSTEM...
+> LOADING PROTOCOLS...
+> ESTABLISHING SECURE CONNECTION...
+> ACCESS GRANTED.
   </a>
 </div>
