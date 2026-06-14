@@ -24,9 +24,7 @@ I'm a developer, digital creator, and entrepreneur passionate about building eng
 
 ## 📈 GitHub Visual Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psycheaura&show_icons=true&theme=radium" alt="psycheaura's GitHub Stats" />
-</div>
+![psycheaura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psycheaura&show_icons=true&theme=radium&v=1)
 
 <br/>
 
